@@ -3,7 +3,7 @@
 //  P&D: EXAM 08.06.22
 //
 //  Created by Julia Vister on 08/06/2022.
-//
+// The task is to write a function fun, which takes two integers n and m as arguments. The function calculates and returns an integer. 
 
 #include <iostream>
 #include <stdexcept>
