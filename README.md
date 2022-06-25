@@ -1,2 +1,2 @@
 # P-D
-Programming &amp; data structure Exam summer 2022.
+Programming and Data Structure programs written during classes and at home.
