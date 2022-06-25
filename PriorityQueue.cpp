@@ -1,4 +1,3 @@
-//
 //  main.cpp
 //  P&D: Priority Queue
 //
@@ -56,7 +55,7 @@ public:
         }
     }
 
-    void Insert(Customer value){ //making a new node i think..
+    void Insert(Customer value){ 
         Node *new_node =new Node(value);
         new_node->value=value;
         new_node->next=nullptr;
