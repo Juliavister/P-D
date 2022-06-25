@@ -179,7 +179,5 @@ int main() {
     q.pop();
     q.print();
     
- 
-    std::cout << "\nIT RAN! ";
     return 0;
 }
